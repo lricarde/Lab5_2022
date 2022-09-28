@@ -1,0 +1,3 @@
+﻿  Lab5_2022.cpp
+C:\Users\leydi\Downloads\Lab5_2022\Lab5_2022.cpp(12,6): warning C4101: 'i': unreferenced local variable
+C:\Users\leydi\Downloads\Lab5_2022\Lab5_2022.cpp(24): error C4700: uninitialized local variable 'key' used
